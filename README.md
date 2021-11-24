@@ -35,3 +35,6 @@
 --> 주석에 적힌 시간/공간 복잡도 파싱해서 멤버별로 정렬하게 만들었어요! <br>
 --> 시간 날 때 사용법 보강해서 적어둘게요! 필요하신 분들은 사용하세요! <br>
 https://github.com/nicework-jin/parser4Study
+
+## 공유 노션 주소
+https://www.notion.so/KAKAO-BLIND-3-a8e875dfb0cd41b59fa9e1889c30a3cc
