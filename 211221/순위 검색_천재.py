@@ -57,6 +57,7 @@ def solution(info, query):
         # ['python', 'and', 'frontend', 'and', 'senior', 'and', 'chicken', '200']
         q = q.split()
 
+        # ['python', 'frontend', 'senior', 'chicken', '200']
         pool = data[(q[0], q[2], q[4], q[6])]
         find = int(q[7])
         l = 0
