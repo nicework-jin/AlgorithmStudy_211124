@@ -17,7 +17,7 @@ from copy import deepcopy
 
 
 def solution(m, n, board):
-    # zip 함수를 이용해서 가로/세로 방향을 바꾼다. >> m과 n의 역할이 서로 바뀜.
+    # zip 함수를 이용해서 가로/세로 방향을 바꾼다. >> m과 n의 역할이 서로 바뀜
     board = list(map(list, zip(*board)))
     res = 0
 
