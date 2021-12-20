@@ -230,4 +230,23 @@
       <td>10.59</td>
     </tr>
   </tbody>
+</table>후보키 
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>time_complexity</th>
+      <th>space_complexity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>박수현</td>
+      <td>5.218571</td>
+      <td>10.325</td>
+    </tr>
+  </tbody>
 </table>
