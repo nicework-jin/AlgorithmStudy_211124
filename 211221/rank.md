@@ -211,6 +211,25 @@
       <td>11.288889</td>
     </tr>
   </tbody>
+</table>압축 
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>time_complexity</th>
+      <th>space_complexity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>박수현</td>
+      <td>27.7355</td>
+      <td>10.265</td>
+    </tr>
+  </tbody>
 </table>오픈채팅방 
 
 <table border="1" class="dataframe">
